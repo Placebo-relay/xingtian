@@ -77,5 +77,5 @@ game_image = st.empty()
 
 # Game loop execution
 while True:
-    game_image.image(game_loop(), use_column_width=True)
+    game_image.image(game_loop(), use_container_width=True)
     pygame.time.delay(100)  # Control the frame rate
