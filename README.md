@@ -1,2 +1,2 @@
 # xingtian demo project + radio script via vlc
-pygame test
+pygame python-vlc test
