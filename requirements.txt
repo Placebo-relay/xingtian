@@ -1,1 +1,4 @@
 pygame
+screeninfo
+pywin32
+python-vlc
